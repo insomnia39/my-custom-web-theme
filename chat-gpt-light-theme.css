@@ -1,0 +1,20 @@
+style1 {
+    --text-primary: #12130F;
+    --text-secondary: var(--gray-500);
+    --text-tertiary: #735CDD;
+    --text-quaternary: var(--gray-300);
+    --text-error: var(--red-700);
+    --border-light: #12130F;
+    --border-medium: #12130F;
+    --border-heavy: #12130F;
+    --border-xheavy: #12130F;
+    --main-surface-primary: #f1ebea;
+    --main-surface-secondary: #f1ebea;
+    --main-surface-tertiary: #f1ebea;
+    --sidebar-surface-primary: #e7e1e0;
+    --sidebar-surface-secondary: #c7c0be;
+    --sidebar-surface-tertiary: #c7c0be;
+    --link: #2964aa;
+    --link-hover: #749ac8;
+    --selection: #735CDD;
+}
